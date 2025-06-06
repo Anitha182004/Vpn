@@ -1,4 +1,4 @@
-# Vpn
+# VPN
 Task 8: Working and Understanding VPN**
 
 In **Task 8**, I explored the practical and theoretical aspects of **Virtual Private Networks (VPNs)**, which are essential tools for ensuring online privacy and secure communication.
